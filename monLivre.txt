@@ -1,7 +1,3 @@
 =Mon Titre
 ==Chapitre 1
 //TODO : Ecrire le chap 1
-
-"Que veux-tu que je fasse avec 12 secondes de dauphin ?"
-
-+++++++++
